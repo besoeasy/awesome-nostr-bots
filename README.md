@@ -14,6 +14,7 @@ A curated list of bots on Nostr with their descriptions and functionalities.
 
 nprofile1qqsf3flr76lypu0zpnsujc3mvyrevjldq7xsyhgelyyxssa5zhscv3s2amegu
 
+nprofile1qqs0g8u6nyhjjm7v0rctqm9d0qkw5h3aa62rh2kchcu6087wjwslarsppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7zr97nq
 
 ## Contributing
 Contributions are welcome! Please submit a pull request with the bot's `npub` and a description of its functionality.
