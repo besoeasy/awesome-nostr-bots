@@ -10,6 +10,9 @@ A curated list of bots on Nostr with their descriptions and functionalities.
 - [**Spaceship**](https://nosta.me/npub1uhen8835huh3dhgrcck266ad3fxj02dhwmeh6eg3txp7yz2j64xs7nh4p0): ACTION ZONE indicator is simple EMA12 and EMA26 cross. This alert will be sent every 4 hours.
 - [**Crypto News**](https://nosta.me/npub1nzn78a47grc7yr8pe93rkcg8je976pudqfw3n7ggdppmg90pserqg7v5l6): Covering the latest #crypto #news.
 - [**₿$₱**](https://nosta.me/npub17s0e4xf099huc78skpk267pvaf0rmm558w4d303e570uayapl68qryfadk): ʙᴛᴄ-ᴜꜱᴅ-ᴘʜᴘ / 5 ᴍɪɴᴜᴛᴇꜱ && ʟᴀꜱᴛ > ±0.3%
+- [**SatsLeft**](https://nosta.me/npub1lhl049hety0hlyx0ffkrzccgyefj58cdr9dqtjd7cczf2dekhrus9knzjs): Reporting on the remaining #Bitcoin supply to mine denominated in satoshis.
+
+
 
 
 ## Contributing
