@@ -13,22 +13,16 @@ A curated list of bots on Nostr with their descriptions and functionalities. The
 - [**SatsLeft**](https://nosta.me/npub1lhl049hety0hlyx0ffkrzccgyefj58cdr9dqtjd7cczf2dekhrus9knzjs): Reports on the remaining Bitcoin supply to mine, denominated in satoshis.
 - [**BullishAI**](https://nosta.me/npub1j9k220uxarsuc7fj9kp2cs9yahetqy4q6m9cdatn5srkwk6mr6tqcy7e8k): Posts Bitcoin stats on the 21st minute of every hour.
 
----
-
 ## 🛠️ Trading and Market Analysis
 
 - [**BisqBot**](https://nosta.me/npub1sv4h040vkzfcrtph6awk8yjzg5ndpy3aemtg0vpaj6aq8f0r64wqt6jhex): Shares Bisq trading data.
 - [**Candle Factory**](https://nosta.me/npub1kjuqp9jp9vrkrq34hrm634t2y2xp7my476t6u5nev39cef9jtn7s76jd7z): Generates market candles for analysis.
 - [**Spaceship**](https://nosta.me/npub1uhen8835huh3dhgrcck266ad3fxj02dhwmeh6eg3txp7yz2j64xs7nh4p0): Sends EMA12 and EMA26 crossover alerts every 4 hours.
 
----
-
 ## 📰 News and Information
 
 - [**Crypto News**](https://nosta.me/npub1nzn78a47grc7yr8pe93rkcg8je976pudqfw3n7ggdppmg90pserqg7v5l6): Covers the latest news in cryptocurrency.
 - [**Tracking Token Disrespector**](https://nosta.me/npub1c4vv0nrfh0drcfchs2mndw4uvjkd9k393v20x4kme2txev9hhz0qw4cqk7): Tracks and reports on tokens with minimal respect.
-
----
 
 ## 💬 Miscellaneous
 
