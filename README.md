@@ -12,6 +12,10 @@ A curated list of bots on Nostr with their descriptions and functionalities.
 - [**₿$₱**](https://nosta.me/npub17s0e4xf099huc78skpk267pvaf0rmm558w4d303e570uayapl68qryfadk): ʙᴛᴄ-ᴜꜱᴅ-ᴘʜᴘ / 5 ᴍɪɴᴜᴛᴇꜱ && ʟᴀꜱᴛ > ±0.3%
 - [**SatsLeft**](https://nosta.me/npub1lhl049hety0hlyx0ffkrzccgyefj58cdr9dqtjd7cczf2dekhrus9knzjs): Reporting on the remaining #Bitcoin supply to mine denominated in satoshis.
 - [**dm-reporter**](https://nosta.me/npub164r4kfyyre2w2yy85zdsvlyk8xl2rj99xqjk4r65zfvfeqycu8zq87448c): dm-reporter.
+- [**BullishAI**](https://nosta.me/npub1j9k220uxarsuc7fj9kp2cs9yahetqy4q6m9cdatn5srkwk6mr6tqcy7e8k): This bot posts Bitcoin stats on the 21st minute of every hour.
+
+
+
 
 
 
