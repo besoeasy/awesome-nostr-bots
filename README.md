@@ -25,7 +25,7 @@ A curated list of bots on Nostr with their descriptions and functionalities. The
 ## 📰 News and Information
 
 - [**Crypto News**](https://nosta.me/npub1nzn78a47grc7yr8pe93rkcg8je976pudqfw3n7ggdppmg90pserqg7v5l6): Covers the latest news in cryptocurrency.
-- [**Tracking Token Disrespector**](https://nosta.me/npub1c4vv0nrfh0drcfchs2mndw4uvjkd9k393v20x4kme2txev9hhz0qw4cqk7): Tracks and reports on tokens with minimal respect.
+- [**Tracking Token Disrespector**](https://nosta.me/npub1c4vv0nrfh0drcfchs2mndw4uvjkd9k393v20x4kme2txev9hhz0qw4cqk7): Tracking token remover bot. Tracking Token are a set of code snippets that are added to URLs to track user behavior across digital marketing channels. 
 
 ## 💬 Miscellaneous
 
