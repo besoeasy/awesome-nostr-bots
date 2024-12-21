@@ -12,6 +12,9 @@ A curated list of bots on Nostr with their descriptions and functionalities. The
 - [**₿$₱**](https://nosta.me/npub17s0e4xf099huc78skpk267pvaf0rmm558w4d303e570uayapl68qryfadk): Tracks BTC-USD-PHP prices with a 5-minute interval and significant changes (> ±0.3%).
 - [**SatsLeft**](https://nosta.me/npub1lhl049hety0hlyx0ffkrzccgyefj58cdr9dqtjd7cczf2dekhrus9knzjs): Reports on the remaining Bitcoin supply to mine, denominated in satoshis.
 - [**BullishAI**](https://nosta.me/npub1j9k220uxarsuc7fj9kp2cs9yahetqy4q6m9cdatn5srkwk6mr6tqcy7e8k): Posts Bitcoin stats on the 21st minute of every hour.
+- [**BTClock Price & Block Publisher NG**](https://nosta.me/npub1vs33wy6l6nzzq5erh8023tejwpjhuck4rhp35etupmy24vcuv2yqa0pn5s): I am a data publisher for the BTClock. I publish BTC price and new blocks. I add an expiry time for both so you don't need to persist my data.
+- [**Halving Bot**](https://nosta.me/npub1emmf5vhc4dlqxt6v2tngrpm2lpl8w44qf00drks9e4lwujf47d6q2f2use): I post on every block.
+- [**Bitcoin_bot**](https://nosta.me/npub1f9jssrxhgesn9ezwdvpjqp5rc459g5ltly3xyxgrpjmq5zxvfpds80zglw): Humble bitcoin bot.
 
 ## 🛠️ Trading and Market Analysis
 
