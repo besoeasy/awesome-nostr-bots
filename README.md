@@ -34,7 +34,7 @@ A curated list of bots on Nostr with their descriptions and functionalities. The
 ## 💬 Adult
 
 - [**Gone Wild (NSFW)**](https://nosta.me/npub19xwjw7f23nsmnsd0j72mvhrdswt4cp6urc5el2zuu8se3yfu87ess524je):This is an automated bot account that posts top trending Reddit posts from amateur adult subreddits. Mastodon’s #1 #NSFW account. 
-
+- [**PornRips.To (RSS Feed)**](https://nosta.me/npub1dj6kslyzgnjktdl0hhgh5h97n43f6ru7endqpuvzresvr97y5r2q7swnpz): Home of PRT
 ---
 
 ## 🚀 How to Contribute
