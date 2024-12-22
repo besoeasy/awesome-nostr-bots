@@ -29,11 +29,11 @@ A curated list of bots on Nostr with their descriptions and functionalities. The
 
 ## 💬 Miscellaneous
 
-- [**dm-reporter**](https://nosta.me/npub164r4kfyyre2w2yy85zdsvlyk8xl2rj99xqjk4r65zfvfeqycu8zq87448c): This is an automated bot account that posts top trending Reddit posts from amateur adult subreddits. Mastodon’s #1 #NSFW account. 
+- [**dm-reporter**](https://nosta.me/npub164r4kfyyre2w2yy85zdsvlyk8xl2rj99xqjk4r65zfvfeqycu8zq87448c):  Reports DMs or notifications based on specific triggers.
 
 ## 💬 Adult
 
-- [**Gone Wild (NSFW)**](https://nosta.me/npub19xwjw7f23nsmnsd0j72mvhrdswt4cp6urc5el2zuu8se3yfu87ess524je): Reports DMs or notifications based on specific triggers.
+- [**Gone Wild (NSFW)**](https://nosta.me/npub19xwjw7f23nsmnsd0j72mvhrdswt4cp6urc5el2zuu8se3yfu87ess524je):This is an automated bot account that posts top trending Reddit posts from amateur adult subreddits. Mastodon’s #1 #NSFW account. 
 
 ---
 
