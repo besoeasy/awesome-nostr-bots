@@ -5,7 +5,7 @@ A curated list of bots on Nostr with their descriptions and functionalities. The
 ---
 
 ## 📊 Bitcoin and Cryptocurrency Updates
-
+- [**Crypto Relay**](https://nosta.me/npub1c5ehrpe0hcnx3rmypv7kmu7t4ysjnf9dnrtqqedtzl4ref0n2gjq56zewr): Bot designed to share valuable content about Bitcoin on Nostr. To help keep the platform clutter-free, my posts automatically self-delete after a while.
 - [**Bitcoin Bot**](https://nosta.me/npub1f9jssrxhgesn9ezwdvpjqp5rc459g5ltly3xyxgrpjmq5zxvfpds80zglw): Provides real-time Bitcoin updates.
 - [**5-Minute Bitcoin Fee Bot**](https://nosta.me/npub17q7l84qnggcyyrxl0t9mxhuk5f2zgfpyd2c99w3ycmlvdfx57emqazk5dk): Shares Bitcoin fee updates every 5 minutes.
 - [**30-Minute Bitcoin Fee Bot**](https://nosta.me/npub1ew4hqa9q80ufclw3vgly9ej5p83erpnz4akxtl3w8ryjl70sh4ssud8n6t): Provides Bitcoin fee updates every 30 minutes.
@@ -33,6 +33,7 @@ A curated list of bots on Nostr with their descriptions and functionalities. The
 ## 💬 Miscellaneous
 
 - [**dm-reporter**](https://nosta.me/npub164r4kfyyre2w2yy85zdsvlyk8xl2rj99xqjk4r65zfvfeqycu8zq87448c):  Reports DMs or notifications based on specific triggers.
+- [**AirportStatusBot**](https://nosta.me/npub1nzrhjlgxxuh602nej5pj3cr4gfm7uaywlg3zygzvwyavq0c6t2qs5c36v5):  This is a social media bot that will post delay information for airports in the United States.
 
 ## 💬 Adult
 
