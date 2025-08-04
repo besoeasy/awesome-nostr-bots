@@ -35,10 +35,6 @@ A curated list of bots on Nostr with their descriptions and functionalities. The
 - [**dm-reporter**](https://nosta.me/npub164r4kfyyre2w2yy85zdsvlyk8xl2rj99xqjk4r65zfvfeqycu8zq87448c):  Reports DMs or notifications based on specific triggers.
 - [**AirportStatusBot**](https://nosta.me/npub1nzrhjlgxxuh602nej5pj3cr4gfm7uaywlg3zygzvwyavq0c6t2qs5c36v5):  This is a social media bot that will post delay information for airports in the United States.
 
-## 💬 Adult
-
-- [**Gone Wild (NSFW)**](https://nosta.me/npub19xwjw7f23nsmnsd0j72mvhrdswt4cp6urc5el2zuu8se3yfu87ess524je):This is an automated bot account that posts top trending Reddit posts from amateur adult subreddits. Mastodon’s #1 #NSFW account. 
-- [**PornRips.To (RSS Feed)**](https://nosta.me/npub1dj6kslyzgnjktdl0hhgh5h97n43f6ru7endqpuvzresvr97y5r2q7swnpz): Home of PRT
 ---
 
 ## 🚀 How to Contribute
